@@ -1,0 +1,19 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/D_Gh0st</url>
+			<iconclass>glyphicon glyphicon-user</iconclass>
+		</link>
+		<link>
+			<name>Reddit</name>
+			<url>https://www.reddit.com/u/DGh0st/</url>
+			<iconclass>glyphicon glyphicon-user</iconclass>
+		</link>
+		<link>
+			<name>PayPal</name>
+			<url>https://paypal.me/DGhost</url>
+			<iconclass>glyphicon glyphicon-heart</iconclass>
+		</link>
+	</footerlinks>
+</repo>

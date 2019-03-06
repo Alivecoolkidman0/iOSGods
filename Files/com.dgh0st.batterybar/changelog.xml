@@ -1,0 +1,34 @@
+<changelog>
+	<changes>
+		<version>0.0.3-3</version>
+		<change>Fixed preferences not loading in some System applications such as Photos</change>
+		<change>Fixed crashreport generating crashes when Amazon is reopened</change>
+	</changes>
+	<changes>
+		<version>0.0.3-2</version>
+		<change>Fixed support of Lithium Ion (version on private repo)</change>
+		<change>Added option to update bar at every battery level instead of every 5 levels</change>
+	</changes>
+	<changes>
+		<version>0.0.3-1</version>
+		<change>Reverted back to old approach for charging animations to fix some CPU usage problem introduced in previous version</change>
+		<change>Added support for Lithium Ion</change>
+	</changes>
+	<changes>
+		<version>0.0.3</version>
+		<change>Improved pulse charging animation (initial glitch on device plug-in)</change>
+		<change>Added a slider to configure the height of the bar</change>
+		<change>Added a sway charging animation</change>
+	</changes>
+	<changes>
+		<version>0.0.2</version>
+		<change>Fixed freezes when opening Control Center with "Always White" style on iOS 11</change>
+		<change>Forces background to be displayed when background style bar is selected</change>
+		<change>Uses color instead of blur for the background (to reenable blur, modify the plist file and add isBlurBackgroundEnabled)</change>
+		<change>Added ability to modify white and black background grayness which is used for the background color by modifying the plist file and adding WhiteBackgroundGrayness or BlackBackgroundGrayness (respectively)</change>
+	</changes>
+	<changes>
+		<version>0.0.1</version>
+		<change>Initial release</change>
+	</changes>
+</changelog>

@@ -1,0 +1,68 @@
+<changelog>
+	<changes>
+		<version>0.0.7-4</version>
+		<change>Made UI display and interact with multiple cards if multiple application cards are being swiped up/down</change>
+	</changes>
+	<changes>
+		<version>0.0.7-3</version>
+		<change>Fixed color values reseting when changing other preferences</change>
+	</chages>
+	<changes>
+		<version>0.0.7-2</version>
+		<change>Fixed potential conflict with other app switcher tweaks</change>
+	</changes>
+	<changes>
+		<version>0.0.7-1</version>
+		<change>Fixed small memory leak</change>
+		<change>Updated donate link</change>
+	</changes>
+	<changes>
+		<version>0.0.7</version>
+		<change>Added safemode as an action</change>
+		<change>Changed donate link to paypal.me link</change>
+	</changes>
+	<changes>
+		<version>0.0.6</version>
+		<change>Added option to enable/disable swipe up/down actions</change>
+		<change>Fixed customize settings menu not having a footer</change>
+	</changes>
+	<changes>
+		<version>0.0.6~Beta-4</version>
+		<change>Fixed two "Relaunch" to one "Relaunch" and one "Background" for color picker</change>
+	</changes>
+	<changes>
+		<version>0.0.6~Beta-3</version>
+		<change>Moved select label position to Personalize</change>
+		<change>Added option to color various labels and background of the tweak view</change>
+	</changes>
+	<changes>
+		<version>0.0.6~Beta-2</version>
+		<change>Fixed settings label positon description</change>
+	</changes>
+	<changes>
+		<version>0.0.6~Beta-1</version>
+		<change>Added option to select label position (left, center, right)</change>
+	</changes>
+	<changes>
+		<version>0.0.5</version>
+		<change>Added option to set default applications settings instead of having to go through every single application</change>
+	</changes>
+	<changes>
+		<version>0.0.4</version>
+		<change>Added option to display alert when trying to kill now playing application</change>
+	</changes>
+	<changes>
+		<version>0.0.3</version>
+		<change>Added Preferences</change>
+		<change>Added Quick Launch Applications</change>
+	</changes>
+	<changes>
+		<version>0.0.2</version>
+		<change>Improved background color to dynamically change based on vertical offset</change>
+		<change>Increased line width to be until the start/end of label instead of fixed value</change>
+	</changes>
+	<changes>
+		<version>0.0.1</version>
+		<change>Initial Release</change>
+	</changes>
+</changelog>

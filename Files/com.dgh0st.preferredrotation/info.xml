@@ -1,0 +1,33 @@
+<package>
+	<id>com.dgh0st.preferredrotation</id>
+	<name>PreferredRotation</name>
+	<version>0.0.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>6.0</miniOS>
+			<maxiOS>11.1.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+		<package>applist</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Only tested on iOS 10.2</description>
+		<description>Forces device to only rotate to preferred orientation (Portrait for most part)</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>../../../img/PreferredRotation.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Fix for Inbox app crashing when trying to open a PDF</change>
+		<change>Fix for Amazon app generating a crash when closing it via App Switcher</change>
+	</changelog>
+	<links>
+	</links>
+</package>

@@ -1,0 +1,33 @@
+<changelog>
+	<changes>
+		<version>0.0.3-2</version>
+		<change>Fix crashes on iOS 11</change>
+	</changes>
+	<changes>
+		<version>0.0.3-1</version>
+		<change>Fix taking screenshot on iOS 11</change>
+	</changes>
+	<changes>
+		<version>0.0.3</version>
+		<change>Slight optomizations to gesture creation</change>
+		<change>Fix activating switcher on iOS 10.3.3+</change>
+		<change>Made Notification Center as a action not crash on iOS 11 (don't use NC as a Action, it does nothing)</change>
+	</changes>
+	<changes>
+		<version>0.0.2</version>
+		<change>Added Screenshot, Control Center and Notification Center as actions</change>
+	</changes>
+	<changes>
+		<version>0.0.1-2</version>
+		<change>Fixed Siri not being dismissed when performing same action again</change>
+		<change>Changed donate link to paypal.me link</change>
+	</changes>
+	<changes>
+		<version>0.0.1-1</version>
+		<change>Added preferences</change>
+	</changes>
+	<changes>
+		<version>0.0.1</version>
+		<change>Initial Release</change>
+	</changes>
+</changelog>

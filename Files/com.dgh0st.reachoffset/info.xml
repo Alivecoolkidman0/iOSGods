@@ -1,0 +1,30 @@
+<package>
+	<id>com.dgh0st.reachoffset</id>
+	<name>ReachOffset</name>
+	<version>1.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+			<maxiOS>10.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Set a custom reachability offset with ability to customize many aspects related to reachability.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>../../../img/ReachOffset.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Added iPhone 6s/6s+ support</change>
+	</changelog>
+	<links>
+	</links>
+</package>

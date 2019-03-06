@@ -1,0 +1,30 @@
+<package>
+	<id>com.dgh0st.dvirtualhome</id>
+	<name>DVirtualHome</name>
+	<version>0.0.3-2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<maxiOS>11.1.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+	</dependencies>
+	<descriptionlist>
+		<description>My attempt at making virtual home iOS 10 - 11 compatible (Untested on iOS 11).</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>../../../img/DVirtualHome.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Fix crashes on iOS 11</change>
+	</changelog>
+	<links>
+	</links>
+</package>

@@ -1,0 +1,29 @@
+<package>
+	<id>com.dgh0st.nolsnotificationseparators</id>
+	<name>NoLSNotificationSeparators</name>
+	<version>0.0.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+			<maxiOS>10.3.3</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Remove the lockscren notification separators.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>../../../img/NoLSNotificationSeparators.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Added support for iOS 10</change>
+	</changelog>
+	<links>
+	</links>
+</package>

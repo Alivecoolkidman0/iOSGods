@@ -1,0 +1,31 @@
+<package>
+	<id>com.dgh0st.productivityreminder</id>
+	<name>ProductivityReminder</name>
+	<version>0.0.4-3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+			<maxiOS>10.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+		<package>applist</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Display an alert x minutes after application open to be reminded to get back to work. Select which applications to enable reminder in and also configure the amount of minutes before the alert is displayed.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>../../../img/ProductivityReminder.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Fixed crashes for applications that did not set display name in infoDictionary</change>
+	</changelog>
+	<links>
+	</links>
+</package>

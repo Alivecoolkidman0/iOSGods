@@ -1,0 +1,31 @@
+<changelog>
+	<changes>
+		<version>0.0.4-3</version>
+		<change>Fixed crashes for applications that did not set display name in infoDictionary</change>
+	</changes>
+	<changes>
+		<version>0.0.4-2</version>
+		<change>Fixed application crashes due to backgrounding application before alert is displayed</change>
+		<change>Improved preference loading speed.</change>
+	</changes>
+	<changes>
+		<version>0.0.4-1</version>
+		<change>Fixed regular button not displaying when snooze is disabled</change>
+	</changes>
+	<changes>
+		<version>0.0.4</version>
+		<change>Added Snooze button</change>
+	</changes>
+	<changes>
+		<version>0.0.3</version>
+		<change>Improved preferences per application</change>
+	</changes>
+	<changes>
+		<version>0.0.2</version>
+		<change>Improved displayed time in the alert</change>
+	</changes>
+	<changes>
+		<version>0.0.1</version>
+		<change>Initial Release</change>
+	</changes>
+</changelog>

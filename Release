@@ -1,8 +1,8 @@
-Origin: Lizynz's Repo
-Label: Lizynz's Repo
+Origin: DGh0st
+Label: DGh0st's repo
 Suite: stable
 Version: 1.0
-Codename: ios
+Codename: dgh0strepo
 Architectures: iphoneos-arm
 Components: main
-Description: Lizynz's Cydia Repository
+Description: DGh0st's Cydia Repository

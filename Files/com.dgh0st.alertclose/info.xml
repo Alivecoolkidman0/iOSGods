@@ -1,0 +1,41 @@
+<package>
+	<id>com.dgh0st.alertclose</id>
+	<name>AlertClose</name>
+	<version>1.6.8</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+			<maxiOS>10.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+		<package>applist</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Display an alert with option to close application, relaunch application, dismiss switcher and cancel when you try to swipe application up through application switcher.</description>
+		<description>Disclaimer: Quick Action is untested on iOS 8</description>
+		<description>This tweak was suggested by /u/Jpasholk from /r/jailbreak</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>../../../img/AlertClose.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>../../../img/AlertClosePreference.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>fixed preference header disappearance issue</change>
+		<change>added Quick Launch</change>
+		<change>fixed default preference loading</change>
+		<change>fixed disabling application from whitelist not taking effect</change>
+		<change>changed blacklist to a whitelist (sorry for the inconvenience</change>
+	</changelog>
+	<links>
+	</links>
+</package>

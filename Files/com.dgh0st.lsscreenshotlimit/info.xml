@@ -1,0 +1,30 @@
+<package>
+	<id>com.dgh0st.lsscreenshotlimit</id>
+	<name>LSScreenshotLimit</name>
+	<version>0.0.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+			<maxiOS>10.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Limit the amount of screenshots that can be taken.</description>
+	</descriptionlist>
+	<screenshots>		
+		<screenshot>
+			<description></description>
+			<image>../../../img/LSScreenshotLimit.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Fixed compatibility with Activator on iOS 8 and 9</change>
+	</changelog>
+	<links>
+	</links>
+</package>

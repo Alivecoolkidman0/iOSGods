@@ -1,0 +1,34 @@
+<package>
+	<id>com.dgh0st.appswitchcurrent10</id>
+	<name>AppSwitchCurrent (9 &amp; 10)</name>
+	<version>0.0.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+			<maxiOS>10.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Opens the deck switcher to the current application instead of the last application.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>../../../img/AppSwitchCurrent.gif</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>../../../img/AppSwitchCurrentPreference.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>3D Switcher 2 Support</change>
+	</changelog>
+	<links>
+	</links>
+</package>

@@ -1,0 +1,33 @@
+<package>
+	<id>com.dgh0st.scappshortcuts</id>
+	<name>SCAppShortcuts</name>
+	<version>0.0.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<maxiOS>10.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+		<package>applist</package>
+		<package>SwitcherControls</package>
+	</dependencies>
+	<descriptionlist>
+		<change>Fix unpaged not working sometimes</change>
+		<change>Added ability to select applications that are disabled for both portrait and landscape individually</change>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>../../../img/SCAppShortcuts.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+	</links>
+</package>

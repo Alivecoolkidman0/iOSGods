@@ -1,0 +1,30 @@
+<package>
+	<id>com.dgh0st.force3dappshortcuts</id>
+	<name>Force3DAppShortcuts</name>
+	<version>0.0.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<maxiOS>10.3.3</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Enable 3D touch shortcuts on homescreen for older devices (iOS 10 only).</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>../../../img/Force3DAppShortcuts.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Fixed going into editing mode when press duration is bigger than ~0.66</change>
+	</changelog>
+	<links>
+	</links>
+</package>

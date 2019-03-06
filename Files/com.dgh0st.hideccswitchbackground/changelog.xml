@@ -1,0 +1,26 @@
+<changelog>
+	<changes>
+		<version>0.0.6</version>
+		<change>Fix background of the now playing application not working with Noctis</change>
+	</changes>
+	<changes>
+		<version>0.0.5</version>
+		<change>Remove the background of the now playing application thanks to /u/NeinZedd9</change>
+	</changes>
+	<changes>
+		<version>0.0.4</version>
+		<change>Better Noctis support by changing the alpha of switches when disabled.</change>
+	</changes>
+	<changes>
+		<version>0.0.3</version>
+		<change>Noctis support</change>
+	</changes>
+	<changes>
+		<version>0.0.2</version>
+		<change>Polus support</change>
+	</changes>
+	<changes>
+		<version>0.0.1</version>
+		<change>Initial Release</change>
+	</changes>
+</changelog>
