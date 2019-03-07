@@ -1,3 +1,3 @@
-# DGh0st.github.io
+# iOSGods.github.io
 
-DGh0st's beta cydia repository
+Therandoms's beta cydia repository

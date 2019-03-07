@@ -2,18 +2,18 @@
 	<footerlinks>
 		<link>
 			<name>Twitter</name>
-			<url>https://twitter.com/D_Gh0st</url>
-			<iconclass>glyphicon glyphicon-user</iconclass>
+			<url>about:blank</url>
+			<iconclass>fa fa-twitter</iconclass>
 		</link>
 		<link>
-			<name>Reddit</name>
-			<url>https://www.reddit.com/u/DGh0st/</url>
-			<iconclass>glyphicon glyphicon-user</iconclass>
+			<name>iOSGods</name>
+			<url>about:blank</url>
+			<iconclass>fa fa-apple</iconclass>
 		</link>
 		<link>
 			<name>PayPal</name>
-			<url>https://paypal.me/DGhost</url>
-			<iconclass>glyphicon glyphicon-heart</iconclass>
+			<url>about:blank</url>
+			<iconclass>fa fa-paypal</iconclass>
 		</link>
 	</footerlinks>
 </repo>

@@ -1,0 +1,31 @@
+<package>
+	<id>com.therandoms.kingsraid</id>
+	<name>kingsraid</name>
+	<version>3.42</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+			<maxiOS>11.4.1</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+		<package>arm64</package>
+	</dependencies>
+	<features>
+		<feature>Stats Value</feature>
+		<feature>x30 Stats</feature>
+		<feature>Instant Win</feature>
+		<feature>Weak Enemies</feature>
+		<feature>No Mana Consume</feature>
+		<feature>No Skills CoolDown</feature>
+	</features>
+	<screenshots>
+	<changelog>
+		<change>Added support for unc0ver</change>
+	</changelog>
+	<links>
+	</links>
+</package>
